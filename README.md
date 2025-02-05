@@ -8,6 +8,12 @@ This project focuses on extracting, transforming, and visualizing cricket match 
 
 Cricsheet.org - https://cricsheet.org/downloads/odis_json.zip
 
+## Tech Stack
+
+Python (Pandas, JSON, Collections), Jupyter Notebook, Power BI
+
+
+
 ## Process Flow
  
  
